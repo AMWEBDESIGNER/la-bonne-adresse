@@ -14,4 +14,6 @@ Site vitrine statique pour **La Bonne Adresse**, restaurant à Superdévoluy (Le
 - GitHub : https://github.com/AMWEBDESIGNER/la-bonne-adresse
 - Pages : https://la-bonne-adresse.pages.dev
 
-Avant exploitation, confirmer téléphone, carte, horaires, logo et photos avec l’établissement. Maquette indépendante sans affiliation.
+## Parcours livré
+
+L’accueil est complété par `carte.html` et `infos.html` : présentation de l’esprit de table, repères midi/soir, coordonnées, itinéraire et appel direct. Les pages restent une maquette indépendante sans affiliation. Confirmer téléphone, carte, horaires, logo et photos avec l’établissement avant exploitation.
