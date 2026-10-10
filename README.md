@@ -17,3 +17,7 @@ Site vitrine statique pour **La Bonne Adresse**, restaurant à Superdévoluy (Le
 ## Parcours livré
 
 L’accueil est complété par `carte.html` et `infos.html` : présentation de l’esprit de table, repères midi/soir, coordonnées, itinéraire et appel direct. Les pages restent une maquette indépendante sans affiliation. Confirmer téléphone, carte, horaires, logo et photos avec l’établissement avant exploitation.
+
+## Motion design et provenance du code
+
+Animations réalisées en CSS vanilla, avec respect de `prefers-reduced-motion`, et une révélation progressive inspirée du pattern public [Scroll animation: IntersectionObserver and CSS](https://codepen.io/oscar-jite/pen/qBzwOVq). La logique reste locale, légère et adaptée à l’identité de chaque établissement ; aucune dépendance payante ni contenu généré n’est requis.
